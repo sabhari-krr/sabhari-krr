@@ -1,5 +1,5 @@
 <!-- Replace the content below with this enhanced README content -->
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=sabhari-krr&show_icons=true&theme=transparent" alt="GitHub Stats">
   </div>
