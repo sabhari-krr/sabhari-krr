@@ -6,10 +6,10 @@
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me: mail: sabhari.ayyappan@outlook.com (or) instagram: \_Sabhari__
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=donut-vertical)](https://github.com/sabhari-krr/github-readme-stats)
+
 <!---
 sabhari-krr/sabhari-krr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr)](https://github.com/sabhari-krr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=donut-vertical)](https://github.com/sabhari-krr/github-readme-stats)
+
