@@ -9,3 +9,4 @@ sabhari-krr/sabhari-krr is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Sabhari's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabhari-krr&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr)](https://github.com/sabhari-krr/github-readme-stats)
