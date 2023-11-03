@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="mailto:sabhari.ayyappan@outlook.com"> 
-<!--     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     <a href="https://wakatime.com/@018b92ba-65b4-410d-bc48-f208612a46c5"><img src="https://wakatime.com/badge/user/018b92ba-65b4-410d-bc48-f208612a46c5.svg" alt="Total time coded since Nov 3 2023" /></a>
   </a>
 </p>
