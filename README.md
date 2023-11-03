@@ -1,12 +1,15 @@
 <!-- Replace the content below with this enhanced README content -->
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=sabhari-krr&show_icons=true&theme=transparent" alt="GitHub Stats">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=compact" alt="Top Languages">
-  </div>
-</div>
+<table align="center" style="border:none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sabhari-krr&show_icons=true&theme=transparent" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
 
 <h1 align="center">Hi, I'm Sabhari! 👋</h1>
 
