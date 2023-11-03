@@ -1,10 +1,9 @@
 <!-- Replace the content below with this enhanced README content -->
 <div style="display: flex;">
-  <div align="center">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=sabhari-krr&show_icons=true&theme=transparent" alt="GitHub Stats">
   </div>
-  <div align="center">
-    <h3>GitHub Activity:</h3>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=compact" alt="Top Languages">
   </div>
 </div>
