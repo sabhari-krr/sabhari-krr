@@ -52,6 +52,7 @@
 
 <p align="center">
   <h3>GitHub Activity:</h3>
+  [![wakatime](https://wakatime.com/badge/user/018b92ba-65b4-410d-bc48-f208612a46c5.svg)](https://wakatime.com/@018b92ba-65b4-410d-bc48-f208612a46c5)
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sabhari-krr&layout=compact" alt="Wakatime Stats">
 </p>
 
