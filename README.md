@@ -55,14 +55,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=compact" alt="Top Languages">
 </p>
 
-<p align="center">
-  <h3>Projects Showcase:</h3>
-  <p align="center">
-    <a href="https://github.com/sabhari-krr/project1">Project 1</a> |
-    <a href="https://github.com/sabhari-krr/project2">Project 2</a> |
-    <a href="https://github.com/sabhari-krr/project3">Project 3</a>
-  </p>
-</p>
+<h3 align="center">Projects Showcase:</h3>
+
+<div align="center">
+  <a href="https://abumakeover.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Abu%20Makeover-009688?style=for-the-badge" />
+  </a>
+  <a href="https://sabhari-krr.github.io/bts5/" target="_blank">
+    <img src="https://img.shields.io/badge/Mock%Bootcamp-FF6F61?style=for-the-badge" />
+  </a>
+
+</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sabhari-krr.sabhari-krr" alt="Visitors">
