@@ -1,3 +1,5 @@
+<!-- Replace the content below with this enhanced README content -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabhari-krr&show_icons=true&theme=transparent" alt="GitHub Stats">
 </p>
@@ -43,8 +45,6 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img alt="Hosting" src="https://img.shields.io/badge/Hosting-0082FC?style=for-the-badge&logo=netlify&logoColor=white" />
-    <img alt="Hosting" src="https://img.shields.io/badge/Hosting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img alt="SweetAlert" src="https://img.shields.io/badge/SweetAlert-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" />
     <img alt="Alertify" src="https://img.shields.io/badge/Alertify-0078D4?style=for-the-badge&logo=javascript&logoColor=white" />
   </p>
@@ -52,8 +52,7 @@
 
 <p align="center">
   <h3>GitHub Activity:</h3>
-  [![wakatime](https://wakatime.com/badge/user/018b92ba-65b4-410d-bc48-f208612a46c5.svg)](https://wakatime.com/@018b92ba-65b4-410d-bc48-f208612a46c5)
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sabhari-krr&layout=compact" alt="Wakatime Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=compact" alt="Top Languages">
 </p>
 
 <p align="center">
