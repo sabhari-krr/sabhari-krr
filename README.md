@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Abu%20Makeover-009688?style=for-the-badge" />
   </a>
   <a href="https://sabhari-krr.github.io/bts5/" target="_blank">
-    <img src="https://img.shields.io/badge/Mock%Bootcamp-FF6F61?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Bootcamp%20Mockup-563D7C?style=for-the-badge" />
   </a>
 
 </div>
