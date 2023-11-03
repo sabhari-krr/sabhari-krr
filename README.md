@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabhari-krr&layout=compact" alt="Top Languages">
 </p>
 
-<h3 align="center">Projects Showcase:</h3>
+<h3>Projects Showcase:</h3>
 
 <div align="center">
   <a href="https://abumakeover.netlify.app/" target="_blank">
@@ -66,7 +66,7 @@
   </a>
 
 </div>
-
+<hr>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sabhari-krr.sabhari-krr" alt="Visitors">
 </p>
