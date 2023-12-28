@@ -48,7 +48,7 @@
 <h4> Frontend</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 <h4>Database</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 <h4>Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode" />
   </a>
 </p>
 <h3>Projects Showcase:</h3>
