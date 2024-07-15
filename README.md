@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Sabhari! 👋</h1>
 
 <p align="center">
-  <em>Passionate about Web Development</em>
+  <em>Passionate about Web Development | PHP Developer</em>
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sabhari-krr.sabhari-krr" alt="Visitors">
@@ -47,7 +47,7 @@
 <h4> Frontend</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
   </a>
 </p>
 
@@ -80,9 +80,14 @@
 <h4>Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,docker,linux" />
   </a>
 </p>
+# :trophy: GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=nishanth-sebastin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### :top: Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nishanth-sebastin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <h3>Projects Showcase:</h3>
 
 <div align="left">
