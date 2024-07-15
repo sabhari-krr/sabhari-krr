@@ -84,9 +84,11 @@
   </a>
 </p>
 # :trophy: GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=nishanth-sebastin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=sabhari-krr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### :top: Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nishanth-sebastin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sabhari-krr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h3>Projects Showcase:</h3>
 
